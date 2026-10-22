@@ -2,7 +2,7 @@
   "name": "3330_hw5",
   "version": "1.0.0",
   "description": "",
-  "type": "commonjs",
+  "type": "module",
   "main": "node_desktop_app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
