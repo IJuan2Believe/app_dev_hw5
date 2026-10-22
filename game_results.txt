@@ -1,0 +1,12 @@
+[35mwelcome to the guessing random number number game[39m
+[33myou have 3 tries to guess a number between 1-10[39m
+[34mYou entered: 5[39m
+[38;2;255;165;0mthat is the wrong number try again[39m
+[38;2;255;165;0mhint: too high[39m
+[33myou have 2 lifes left [39m
+[34mYou entered: 3[39m
+[38;2;255;165;0mthat is the wrong number try again[39m
+[38;2;255;165;0mhint: too high[39m
+[33myou have 1 lifes left [39m
+[34mYou entered: 2[39m
+[33mthat is the correct number![39m
